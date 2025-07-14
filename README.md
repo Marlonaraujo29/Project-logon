@@ -6,7 +6,7 @@
   ## Iniciar o servidor node
     2 - nodemon server.js
 ## Tecnologias ultilizadas 
-. HTML5
-. SQL SERVER
-. JS
+1- HTML5
+2- SQL SERVER
+3- JS
  
